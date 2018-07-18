@@ -5,11 +5,11 @@
   "main": "index.js",
   "dependencies": {
     "bluebird": "^3.1.1",
-    "matrix-appservice-bridge": "matrix-org/matrix-appservice-bridge#5c9b204",
+    "matrix-appservice-bridge": "matrix-org/matrix-appservice-bridge",
     "matrix-js-sdk": "^0.5",
     "minimist": "^1.2",
     "request-promise": "^3.0.0",
-    "telegram-mtproto": "3.0.6"
+    "telegram-mtproto": "^3.0.6"
   },
   "devDependencies": {},
   "scripts": {
